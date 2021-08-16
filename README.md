@@ -10,8 +10,8 @@
 ### 결과
     K-means Clustering 결과 19개의 경기 중 리신의 초반 정글은 7개로 분류할 수 있음
 
-### 비고
-    상세 분석 내용 포트폴리오 URL(Notion) : https://changeable-lunaria-303.notion.site/047c19d8f59f41a1969826c51b44d69c
+### 상세 분석 내용 포트폴리오 URL(Notion)
+    https://changeable-lunaria-303.notion.site/047c19d8f59f41a1969826c51b44d69c
 
 ### 활용 기술 스택
     - sklearn
